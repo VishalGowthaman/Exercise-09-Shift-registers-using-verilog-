@@ -125,4 +125,4 @@ endmodule
 
 ### RESULTS 
 
-Thus the program to implement shift registers is done successfull.
+Thus the program to implement shift registers is done successful.
